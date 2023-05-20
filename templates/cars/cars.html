@@ -115,11 +115,11 @@
                                     {% endif %}
                                     {% for i in cars.paginator.page_range %}
                                         {% if cars.number == i %}
-                                        <li class="page-item"><a class="page-link active disabled"
-                                                                 href="#">{{ i }}</a></li>
-                                            {% else %}
-                                        <li class="page-item"><a class="page-link"
-                                                                 href="?page={{ i }}">{{ i }}</a></li>
+                                            <li class="page-item"><a class="page-link active disabled"
+                                                                     href="#">{{ i }}</a></li>
+                                        {% else %}
+                                            <li class="page-item"><a class="page-link"
+                                                                     href="?page={{ i }}">{{ i }}</a></li>
                                         {% endif %}
                                     {% endfor %}
                                     {% if cars.has_next %}
@@ -136,6 +136,58 @@
                             {% endif %}
                         </nav>
                     </div>
+                </div>
+                <div class="col-lg-4">
+                    <form action="{% url 'search' %}" method="">
+                        <div class="form-group">
+                            <input type="text" name="keyword" placeholder="Search by name" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <select class="form-control search-fields" name="model">
+                                <option selected="true" disabled="disabled">Model</option>
+                                {% for model in model_search %}
+                                    <option value="{{ model }}">{{ model }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <select class="form-control search-fields" name="city">
+                                <option selected="true" disabled="disabled">Location</option>
+                                {% for city in city_search %}
+                                    <option value="{{ city }}">{{ city }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <select class="form-control search-fields" name="year">
+                                <option selected="true" disabled="disabled">Year</option>
+                                {% for year in year_search %}
+                                    <option value="{{ year }}">{{ year }}</option>
+                                {% endfor %}
+
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <select class="form-control search-fields" name="body_style">
+                                <option selected="true" disabled="disabled">Select Type Of Car</option>
+                                {% for body_style in body_style_search %}
+                                    <option value="{{ body_style }}">{{ body_style }}</option>
+                                {% endfor %}
+
+                            </select>
+                        </div>
+                        <div class="range-slider clearfix">
+                            <label>Price</label>
+                            <div data-min="0" data-max="150000" data-min-name="min_price" data-max-name="max_price"
+                                 data-unit="USD" class="range-slider-ui ui-slider" aria-disabled="false"></div>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="form-group">
+                            <button class="btn btn-block button-theme btn-md">
+                                <i class="fa fa-search"></i> Search
+                            </button>
+                        </div>
+                    </form>
                     <!-- Question start -->
                     <div class="widget question widget-3">
                         <h5 class="sidebar-title">Follow us</h5>

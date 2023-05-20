@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="057f6128-860b-4df6-a0b0-691d044eeb06" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/templates/cars/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cars/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cars/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cars/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cars/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/cars/car_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cars/car_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/cars/cars.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cars/cars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/cars/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cars/search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Currency_exchange" beforeDir="false" afterPath="$PROJECT_DIR$/../Currency_exchange" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683647558436</updated>
-      <workItem from="1683647560843" duration="48384000" />
+      <workItem from="1683647560843" duration="53769000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1683908436836</created>
