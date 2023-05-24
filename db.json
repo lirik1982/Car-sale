@@ -1,0 +1,1476 @@
+[
+{
+  "model": "cars.car",
+  "pk": 1,
+  "fields": {
+    "car_title": "2017 Ferrari 488 GTB",
+    "state": "AL",
+    "city": "moskow",
+    "color": "white",
+    "model": "488 GTB",
+    "year": 2017,
+    "condition": "good",
+    "price": 40000,
+    "description": "<p><strong>Ferrari 488 GTB</strong>&nbsp;(Tipo F142M)&nbsp;&mdash;&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C\" title=\"Спортивный автомобиль\">спортивный автомобиль</a>, выпускающийся с 2015 года. Был представлен в феврале 2015 году в&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%BD%D0%B5%D0%BB%D0%BB%D0%BE\" title=\"Маранелло\">Маранелло</a>, а его дебют состоялся в марте на&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%B0%D0%BB%D0%BE%D0%BD\" title=\"Женевский автосалон\">Женевском автосалоне</a><a href=\"https://ru.wikipedia.org/wiki/Ferrari_488#cite_note-1\">[1]</a>. Является заменой&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Ferrari_458_Italia\" title=\"Ferrari 458 Italia\">458 Italia</a>, но имеет ряд конструктивных особенностей, в том числе были внесены небольшие изменения в шасси (для сравнения, автомобиль имеет 80&nbsp;% новых частей).<a href=\"https://ru.wikipedia.org/wiki/Ferrari_488#cite_note-:0-2\">[2]</a></p>\r\n\r\n<p><strong>GTB</strong>&nbsp;&mdash; аббревиатура&nbsp;<em>GranTurismo Berlinetta</em>, а открытая версия носит приставку 488&nbsp;<em>Spider</em>. Предположительная стоимость ожидается от ~&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90\" title=\"Доллар США\">$</a>280000. Спустя 4 года, в свет вышла версия Pista . Авто получил существенно доработанную аэродинамику и улучшение внутренней части . Двигатель стал выдавать 720 лошадиных сил.</p>",
+    "car_photo": "photos/2023/05/15/1902536891_IEnGkxC.jpg",
+    "car_photo_1": "photos/2023/05/15/1902536917_tjp7w4y.jpg",
+    "car_photo_2": "photos/2023/05/15/1902537043_tagga72.jpg",
+    "car_photo_3": "photos/2023/05/15/1902537077_wQjIbFa.jpg",
+    "car_photo_4": "photos/2023/05/15/1902537082_zZh2UUg.jpg",
+    "features": "Cruise Control,Audio Interface,Seat Heating,Alarm System,ParkAssist,Power Steering,Auto Start/Stop",
+    "body_style": "Sport",
+    "engine": "3.9L V8 90° F154 CB",
+    "transmission": "Automatic",
+    "interior": "Grey",
+    "miles": 10000,
+    "doors": "3",
+    "passengers": 1,
+    "vin_no": "WP12312313123",
+    "milage": 5,
+    "fuel_type": "Petrol",
+    "no_of_owners": 1,
+    "is_features": true,
+    "created_date": "2023-05-15T22:35:36Z"
+  }
+},
+{
+  "model": "cars.car",
+  "pk": 2,
+  "fields": {
+    "car_title": "2017 Ford Edge",
+    "state": "DE",
+    "city": "Железногорск",
+    "color": "black",
+    "model": "Edge",
+    "year": 2017,
+    "condition": "good",
+    "price": 60000,
+    "description": "<p>Первое&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5\" title=\"Поколение\">поколение</a>&nbsp;Ford Edge дебютировало в январе 2006 года на&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%B0%D0%BB%D0%BE%D0%BD\" title=\"Североамериканский международный автосалон\">североамериканском международном автосалоне</a>. Производство началось в октябре 2006 года как модель 2007 года с первыми досылками&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BB%D0%B5%D1%80\" title=\"Дилер\">дилерам</a>&nbsp;до 25 декабря 2006 года из-за короткой задержки в производстве при проблемах с поставками.</p>\r\n\r\n<p>Первое поколение основано на&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0_(%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C)\" title=\"Платформа (автомобиль)\">платформе</a>&nbsp;Ford CD3. Совместно с первым поколением&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Mazda6\" title=\"Mazda6\">Mazda 6</a>&nbsp;продавалось в&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE_%D1%80%D0%B5%D0%B1%D0%B5%D0%B4%D0%B6%D0%B8%D0%BD%D0%B3\" title=\"Авто ребеджинг\">ребеджинговом</a>&nbsp;виде как&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a>. Платформа также является общей с&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%B5%D1%80_(%D1%82%D0%B8%D0%BF_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F)\" title=\"Кроссовер (тип автомобиля)\">кроссоверами</a>&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Mazda_CX-9\" title=\"Mazda CX-9\">Mazda CX-9</a>,&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Ford_Fusion_(%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0)\" title=\"Ford Fusion (Северная Америка)\">Ford Fusion</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mercury_Milan\" title=\"en:Mercury Milan\">Mercury Milan</a>&nbsp;&nbsp;<small>(англ.)</small><a href=\"https://ru.wikipedia.org/w/index.php?title=Mercury_Milan&amp;action=edit&amp;redlink=1\" title=\"Mercury Milan (страница отсутствует)\">рус.</a>&nbsp;и седаном&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Lincoln_MKZ\" title=\"Lincoln MKZ\">Lincoln MKZ</a>&nbsp;первого поколения. Внешне похожий на&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>, Ford Edge не основан на той же платформе.</p>\r\n\r\n<p>На Ford Edge первого поколения представлен в&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD\" title=\"Дизайн\">дизайне</a>&nbsp;Ford с тремя хромированными планками решётки радиатора на передней части автомобиля.</p>",
+    "car_photo": "photos/2023/05/15/1901478607.jpg",
+    "car_photo_1": "photos/2023/05/15/1901478618.jpg",
+    "car_photo_2": "photos/2023/05/15/1901478646.jpg",
+    "car_photo_3": "photos/2023/05/15/1901478672.jpg",
+    "car_photo_4": "photos/2023/05/15/1901478687.jpg",
+    "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+    "body_style": "SUV",
+    "engine": "3,5/3,7 L Duratec V6",
+    "transmission": "Automatic",
+    "interior": "black",
+    "miles": 15000,
+    "doors": "5",
+    "passengers": 5,
+    "vin_no": "WPA133125",
+    "milage": 8,
+    "fuel_type": "Disel",
+    "no_of_owners": 2,
+    "is_features": true,
+    "created_date": "2023-05-15T22:45:30Z"
+  }
+},
+{
+  "model": "cars.car",
+  "pk": 3,
+  "fields": {
+    "car_title": "2017 Ford F-250 Super Duty",
+    "state": "VT",
+    "city": "Железногорск",
+    "color": "black",
+    "model": "F-250 Super Duty",
+    "year": 2017,
+    "condition": "good",
+    "price": 59998,
+    "description": "<p><strong>Ford F-Series Super Duty</strong>&nbsp;(сокращенно &laquo;Ford Super Duty&raquo;)&nbsp;&mdash; семейство грузовых&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%B0%D0%BF_(%D0%BA%D1%83%D0%B7%D0%BE%D0%B2)\" title=\"Пикап (кузов)\">пикапов</a>&nbsp;(более 8500 фунтов (3900&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D0%B3\" title=\"Кг\">кг</a>) GVWR), разработанный в 1998 году<a href=\"https://ru.wikipedia.org/wiki/Ford_Super_Duty#cite_note-1\">[1]</a>&nbsp;для 1999 модельного года.</p>\r\n\r\n<p>Модели от F-250 F-550 Super Duty собираются на заводе грузовиков Кентукки в Луисвилле, штат&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D1%83%D0%BA%D0%BA%D0%B8\" title=\"Кентукки\">Кентукки</a>.&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Ford_F-650\" title=\"Ford F-650\">F-650 и F-750</a>&nbsp;Super Duty собирались в&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0\" title=\"Мексика\">Мексике</a>.</p>\r\n\r\n<p>На основе Super Duty разработан полноразмерный&nbsp;<a href=\"https://ru.wikipedia.org/wiki/SUV\" title=\"SUV\">SUV</a>&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Ford_Excursion\" title=\"Ford Excursion\">Ford Excursion</a>.</p>\r\n\r\n<p>Автомобили комплектуются шести, восьми или десяти-цилиндровыми бензиновыми или дизельными двигателями&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BC\" title=\"Объем\">объемом</a>&nbsp;от 3,9 до 7,3 л мощностью до 446&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9B.%D1%81.\" title=\"Л.с.\">л.с.</a></p>",
+    "car_photo": "photos/2023/05/15/1894300894.jpg",
+    "car_photo_1": "photos/2023/05/15/1894300905.jpg",
+    "car_photo_2": "photos/2023/05/15/1894300920.jpg",
+    "car_photo_3": "photos/2023/05/15/1900155012.jpg",
+    "car_photo_4": "photos/2023/05/15/1900155133.jpg",
+    "features": "Airbags,Air Conditioning,Seat Heating,Power Steering,Direct Fuel Injection",
+    "body_style": "SUV",
+    "engine": "6.8 л Triton V10",
+    "transmission": "Mechanic",
+    "interior": "black",
+    "miles": 15000,
+    "doors": "5",
+    "passengers": 5,
+    "vin_no": "WP1231231312322",
+    "milage": 12,
+    "fuel_type": "Disel",
+    "no_of_owners": 1,
+    "is_features": true,
+    "created_date": "2023-05-15T22:45:30Z"
+  }
+},
+{
+  "model": "cars.car",
+  "pk": 4,
+  "fields": {
+    "car_title": "2018 Jaguar F-PACE",
+    "state": "CT",
+    "city": "moskow",
+    "color": "grey",
+    "model": "F-PACE",
+    "year": 2018,
+    "condition": "good",
+    "price": 90000,
+    "description": "<p><strong>Jaguar F-Pace</strong>&nbsp;&mdash; компактный престижный&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%B5%D1%80_(%D1%82%D0%B8%D0%BF_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F)\" title=\"Кроссовер (тип автомобиля)\">кроссовер</a>, выпускающийся&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F\" title=\"Великобритания\">британской</a>&nbsp;компанией&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar Cars</a>&nbsp;с 2016 года, первый кроссовер компании<a href=\"https://ru.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-1\">[1]</a><a href=\"https://ru.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-2\">[2]</a><a href=\"https://ru.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-3\">[3]</a>. Впервые был представлен на&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%B0%D0%BB%D0%BE%D0%BD\" title=\"Североамериканский международный автосалон\">Североамериканском международном автосалоне</a>&nbsp;в&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%82%D1%80%D0%BE%D0%B9%D1%82\" title=\"Детройт\">Детройте</a>&nbsp;в январе 2015 года, затем также на&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%84%D1%83%D1%80%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%B0%D0%BB%D0%BE%D0%BD\" title=\"Франкфуртский автосалон\">Франкфуртском автосалоне</a>&nbsp;в сентябре того же года. Продажи начались в апреле 2016 года. Является воплощением&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82-%D0%BA%D0%B0%D1%80\" title=\"Концепт-кар\">концепт-кара</a>&nbsp;&laquo;Jaguar C-X17&raquo;, который выставлялся напоказ ещё на франкфуртском автосалоне в 2013 году<a href=\"https://ru.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a>.</p>\r\n\r\n<p>Производство кроссовера налажено на заводе&nbsp;<a href=\"https://ru.wikipedia.org/w/index.php?title=Jaguar_Land_Rover&amp;action=edit&amp;redlink=1\" title=\"Jaguar Land Rover (страница отсутствует)\">Jaguar Land Rover</a>&nbsp;в городе&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8%D1%85%D0%B0%D0%BB%D0%BB\" title=\"Солихалл\">Солихалл</a>. В&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F\" title=\"Россия\">России</a>&nbsp;автомобиль в продаже с лета 2016 года по цене от 3,193 млн&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B1%D0%BB%D1%8C\" title=\"Рубль\">руб.</a>&nbsp;(в комплектации Pure) до 5,48&nbsp;млн руб. (в комплектации First Edition)<a href=\"https://ru.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-5\">[5]</a>.</p>\r\n\r\n<p>F-Pace тестировался в условиях&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8F\" title=\"Пустыня\">пустынь</a>&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BB%D1%83%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2\" title=\"Аравийский полуостров\">Аравийского полуострова</a>&nbsp;(где в салоне температура может повышаться до +70 градусов Цельсия) и полярной&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%B3%D0%B0\" title=\"Тайга\">тайги</a>&nbsp;северной&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F\" title=\"Швеция\">Швеции</a>&nbsp;(в районе города&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%8C%D0%B5%D0%BF%D0%BB%D1%83%D0%B3\" title=\"Арьеплуг\">Арьеплуг</a>, где температура может падать до &minus;40), на равнинных и горных территориях и при разном дорожном субстрате<a href=\"https://ru.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a>.</p>",
+    "car_photo": "photos/2023/05/15/1902932542.jpg",
+    "car_photo_1": "photos/2023/05/15/1902932503.jpg",
+    "car_photo_2": "photos/2023/05/15/1902932514.jpg",
+    "car_photo_3": "photos/2023/05/15/1902932528.jpg",
+    "car_photo_4": "",
+    "features": "Audio Interface,Airbags,ParkAssist,Direct Fuel Injection,Wind Deflector,Bluetooth Handset",
+    "body_style": "SUV",
+    "engine": "F-Pace 35t",
+    "transmission": "Mechanic",
+    "interior": "Grey",
+    "miles": 10000,
+    "doors": "5",
+    "passengers": 5,
+    "vin_no": "WPP23213123",
+    "milage": 7,
+    "fuel_type": "Petrol",
+    "no_of_owners": 1,
+    "is_features": true,
+    "created_date": "2023-05-15T22:45:30Z"
+  }
+},
+{
+  "model": "cars.car",
+  "pk": 5,
+  "fields": {
+    "car_title": "2018 Toyota 4Runner",
+    "state": "FL",
+    "city": "Железногорск",
+    "color": "grey",
+    "model": "4Runner",
+    "year": 2018,
+    "condition": "good",
+    "price": 50000,
+    "description": "<p><strong>Toyota 4Runner</strong>&nbsp;&mdash; классический&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA\" title=\"Внедорожник\">среднеразмерный внедорожник</a>, производимый компанией&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>&nbsp;с 1984 года. Построен на базе пикапа&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Toyota_Hilux\" title=\"Toyota Hilux\">Toyota Hilux</a>. Существует пять поколений автомобиля. По состоянию на 2014 год, 4Runner официально продается в США, Канаде, Центральной Америке, Багамах, Эквадоре, Перу и Чили.</p>",
+    "car_photo": "photos/2023/05/15/1893633875.jpg",
+    "car_photo_1": "photos/2023/05/15/1893633879.jpg",
+    "car_photo_2": "photos/2023/05/15/1893633884.jpg",
+    "car_photo_3": "photos/2023/05/15/1896836883.jpg",
+    "car_photo_4": "photos/2023/05/15/1896836887.jpg",
+    "features": "Cruise Control,Audio Interface,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop",
+    "body_style": "SUV",
+    "engine": "4.0 бензиновым двигателем, 272 л.с.",
+    "transmission": "Automatic",
+    "interior": "Grey",
+    "miles": 8000,
+    "doors": "5",
+    "passengers": 6,
+    "vin_no": "WWP2232343",
+    "milage": 9,
+    "fuel_type": "Petrol",
+    "no_of_owners": 2,
+    "is_features": true,
+    "created_date": "2023-05-15T22:45:30Z"
+  }
+},
+{
+  "model": "cars.car",
+  "pk": 6,
+  "fields": {
+    "car_title": "2019 Toyota Corolla",
+    "state": "UT",
+    "city": "moskow",
+    "color": "white",
+    "model": "Corolla",
+    "year": 2019,
+    "condition": "good",
+    "price": 30000,
+    "description": "<p>The&nbsp;<strong>Toyota Corolla (E210)</strong>&nbsp;is the twelfth generation of the&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Toyota_Corolla\" title=\"Toyota Corolla\">Corolla</a>, a&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Compact_car\" title=\"Compact car\">compact car</a>&nbsp;(<a href=\"https://en.m.wikipedia.org/wiki/C-segment\" title=\"C-segment\">C-segment</a>) manufactured by&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Toyota\" title=\"Toyota\">Toyota</a>. Introduced in 2018, this generation has also grown to include&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Hatchback\" title=\"Hatchback\">hatchback</a>&nbsp;and&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Station_wagon\" title=\"Station wagon\">estate (station wagon)</a>&nbsp;configurations in addition to the&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Sedan_(automobile)\" title=\"Sedan (automobile)\">saloon (sedan)</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The E210 series Corolla was first introduced in 2018 at the&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Geneva_Motor_Show\" title=\"Geneva Motor Show\">Geneva Motor Show</a>. The E210 Corolla is paired with a&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Transverse_engine\" title=\"Transverse engine\">transverse engine</a>&nbsp;powered by&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Petrol_engine\" title=\"Petrol engine\">petrol</a>,&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Flexible-fuel_vehicle\" title=\"Flexible-fuel vehicle\">flex-fuel</a>, or a&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Hybrid_Synergy_Drive\" title=\"Hybrid Synergy Drive\">hybrid of petrol and electric</a>. Developed under the lead of chief engineer Yasushi Ueda,<a href=\"https://en.m.wikipedia.org/wiki/Toyota_Corolla_(E210)#cite_note-:1-12\">[12]</a>&nbsp;it is the first generation of the Corolla to be built on the&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Toyota_New_Global_Architecture\" title=\"Toyota New Global Architecture\">Toyota New Global Architecture</a>&nbsp;(<a href=\"https://en.m.wikipedia.org/wiki/Toyota_New_Global_Architecture#GA-C\" title=\"Toyota New Global Architecture\">GA-C</a>) platform shared with the&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Toyota_Prius_(XW50)\" title=\"Toyota Prius (XW50)\">fourth-generation Prius</a>&nbsp;and&nbsp;<a href=\"https://en.m.wikipedia.org/wiki/Toyota_C-HR\" title=\"Toyota C-HR\">C-HR</a>.<a href=\"https://en.m.wikipedia.org/wiki/Toyota_Corolla_(E210)#cite_note-Reynolds_2015-13\">[13]</a>&nbsp;With the GA-C platform, the base of the front windscreen was lowered by 40&nbsp;mm (1.6&nbsp;in), the overall height of the dashboard was reduced for styling reasons and improving visibility. The seats are lowered by 25&nbsp;mm (1.0&nbsp;in) to maintain the same head clearance as the previous generation.<a href=\"https://en.m.wikipedia.org/wiki/Toyota_Corolla_(E210)#cite_note-:1-12\">[12]</a></p>\r\n\r\n<p>As of 2020, the twelfth-generation Corolla was the best-selling passenger vehicle in the world with a 1.6% global market share.<a href=\"https://en.m.wikipedia.org/wiki/Toyota_Corolla_(E210)#cite_note-Focus2move-14\">[14]</a></p>",
+    "car_photo": "photos/2023/05/15/1900893299.jpg",
+    "car_photo_1": "photos/2023/05/15/1900893311.jpg",
+    "car_photo_2": "photos/2023/05/15/1900893319.jpg",
+    "car_photo_3": "photos/2023/05/15/1900893329.jpg",
+    "car_photo_4": "photos/2023/05/15/1900893391.jpg",
+    "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Alarm System,ParkAssist,Reversing Camera,Auto Start/Stop",
+    "body_style": "Sport",
+    "engine": "1.2 L 8NR-FTS turbo I4",
+    "transmission": "Automatic",
+    "interior": "white",
+    "miles": 22000,
+    "doors": "5",
+    "passengers": 4,
+    "vin_no": "WPA435356952342",
+    "milage": 4,
+    "fuel_type": "Petrol",
+    "no_of_owners": 1,
+    "is_features": true,
+    "created_date": "2023-05-15T22:45:30Z"
+  }
+},
+{
+  "model": "pages.team",
+  "pk": 2,
+  "fields": {
+    "first_name": "Martin",
+    "last_name": "Smith",
+    "designation": "Founder",
+    "photo": "photos/2023/05/13/avatar-11_tP22OTB.jpg",
+    "facebook_link": "https://facebook.com",
+    "twitter_link": "https://twitter.com",
+    "google_plus_link": "https://google.com",
+    "created_date": "2023-05-13T15:46:17.136Z"
+  }
+},
+{
+  "model": "pages.team",
+  "pk": 3,
+  "fields": {
+    "first_name": "Stone",
+    "last_name": "Carolyn",
+    "designation": "Creative Director",
+    "photo": "photos/2023/05/13/avatar-9.jpg",
+    "facebook_link": "https://facebook.com",
+    "twitter_link": "https://twitter.com",
+    "google_plus_link": "https://google.com",
+    "created_date": "2023-05-13T15:46:49.826Z"
+  }
+},
+{
+  "model": "pages.team",
+  "pk": 4,
+  "fields": {
+    "first_name": "Brandom",
+    "last_name": "Miller",
+    "designation": "Co-Founder",
+    "photo": "photos/2023/05/13/avatar-1.jpg",
+    "facebook_link": "https://facebook.com",
+    "twitter_link": "https://twitter.com",
+    "google_plus_link": "https://google.com",
+    "created_date": "2023-05-13T15:47:39.727Z"
+  }
+},
+{
+  "model": "pages.team",
+  "pk": 5,
+  "fields": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "designation": "CEO",
+    "photo": "photos/2023/05/13/avatar-12.jpg",
+    "facebook_link": "https://facebook.com",
+    "twitter_link": "https://twitter.com",
+    "google_plus_link": "https://google.com",
+    "created_date": "2023-05-13T15:48:11.759Z"
+  }
+},
+{
+  "model": "pages.team",
+  "pk": 6,
+  "fields": {
+    "first_name": "Michelle",
+    "last_name": "Nelson",
+    "designation": "Support Manager",
+    "photo": "photos/2023/05/13/avatar-10.jpg",
+    "facebook_link": "https://facebook.com",
+    "twitter_link": "https://twitter.com",
+    "google_plus_link": "https://google.com",
+    "created_date": "2023-05-13T15:48:46.146Z"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 1,
+  "fields": {
+    "first_name": "KIRILLe",
+    "last_name": "DEGTYAREV",
+    "car_id": 0,
+    "custumer_need": "False",
+    "car_title": "2018 Jaguar F-PACE",
+    "city": "Jeleznogorsk",
+    "state": "Красноярский край",
+    "email": "kd26031982@gmail.com",
+    "phone": "89138302340",
+    "message": "333",
+    "user_id": 2,
+    "create_date": "2023-05-22T23:35:40.482Z"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 2,
+  "fields": {
+    "first_name": "KIRILL",
+    "last_name": "DEGTYAREV",
+    "car_id": 0,
+    "custumer_need": "False",
+    "car_title": "2018 Jaguar F-PACE",
+    "city": "Jeleznogorsk",
+    "state": "Красноярский край",
+    "email": "kd26031982@gmail.com",
+    "phone": "89138302340",
+    "message": "444",
+    "user_id": 2,
+    "create_date": "2023-05-22T23:36:59.122Z"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 3,
+  "fields": {
+    "first_name": "KIRILL",
+    "last_name": "DEGTYAREV",
+    "car_id": 4,
+    "custumer_need": "I'm interested in this",
+    "car_title": "2018 Jaguar F-PACE",
+    "city": "Jeleznogorsk",
+    "state": "Красноярский край",
+    "email": "kd26031982@gmail.com",
+    "phone": "89138302340",
+    "message": "111",
+    "user_id": 2,
+    "create_date": "2023-05-22T23:50:42.135Z"
+  }
+},
+{
+  "model": "contacts.contact",
+  "pk": 4,
+  "fields": {
+    "first_name": "Tester",
+    "last_name": "terminator",
+    "car_id": 3,
+    "custumer_need": "I'm interested in this",
+    "car_title": "2017 Ford F-250 Super Duty",
+    "city": "ццц",
+    "state": "ц",
+    "email": "www@ya.ru",
+    "phone": "",
+    "message": "",
+    "user_id": 2,
+    "create_date": "2023-05-23T22:19:19.483Z"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-05-12T16:52:57.366Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Team object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-05-13T15:44:24.379Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Rathan Kumar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-05-13T15:45:35.297Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Rathan Kumar",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-05-13T15:46:17.139Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Martin Smith",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-05-13T15:46:49.829Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Stone Carolyn",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-05-13T15:47:39.730Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Brandom Miller",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-05-13T15:48:11.760Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "John Doe",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-05-13T15:48:46.156Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Michelle Nelson",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-05-15T15:45:35.636Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Car object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-05-15T15:46:00.004Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Car object (1)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-05-15T15:49:04.305Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Car object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-05-15T15:51:35.152Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Car object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-05-15T15:54:02.976Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Car object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-05-15T15:56:50.782Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Car object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-05-15T15:59:18.391Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Car object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-05-15T16:02:30.272Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "2017 Ferrari 488 GTB",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Car title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-05-15T16:02:40.530Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "2017 Ford Edge",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Car title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-05-15T16:02:49.011Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "2017 Ford F-250 Super Duty",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Car title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-05-15T16:02:57.386Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "2018 Jaguar F-PACE",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Car title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-05-15T16:03:06.395Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "2018 Toyota 4Runner",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Car title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-05-15T16:03:20.994Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "2019 Toyota Corolla",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Car title\", \"Year\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-05-15T16:15:57.228Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "2017 Ford F-250 Super Duty",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is features\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-05-15T16:15:57.251Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "2017 Ford Edge",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is features\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-05-16T15:46:26.110Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "2017 Ford F-250 Super Duty",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is features\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-05-16T15:46:26.143Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "2017 Ford Edge",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is features\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-05-19T16:43:31.951Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "2019 Toyota Corolla",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-05-21T16:33:11.580Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "localhost:8080",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-05-21T16:33:32.354Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add teams",
+    "content_type": 7,
+    "codename": "add_teams"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change teams",
+    "content_type": 7,
+    "codename": "change_teams"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete teams",
+    "content_type": 7,
+    "codename": "delete_teams"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view teams",
+    "content_type": 7,
+    "codename": "view_teams"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add team",
+    "content_type": 7,
+    "codename": "add_team"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change team",
+    "content_type": 7,
+    "codename": "change_team"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete team",
+    "content_type": 7,
+    "codename": "delete_team"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view team",
+    "content_type": 7,
+    "codename": "view_team"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add car",
+    "content_type": 8,
+    "codename": "add_car"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change car",
+    "content_type": 8,
+    "codename": "change_car"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete car",
+    "content_type": 8,
+    "codename": "delete_car"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view car",
+    "content_type": 8,
+    "codename": "view_car"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 9,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 9,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 9,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 9,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add email address",
+    "content_type": 10,
+    "codename": "add_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change email address",
+    "content_type": 10,
+    "codename": "change_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete email address",
+    "content_type": 10,
+    "codename": "delete_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view email address",
+    "content_type": 10,
+    "codename": "view_emailaddress"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add email confirmation",
+    "content_type": 11,
+    "codename": "add_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change email confirmation",
+    "content_type": 11,
+    "codename": "change_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete email confirmation",
+    "content_type": 11,
+    "codename": "delete_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view email confirmation",
+    "content_type": 11,
+    "codename": "view_emailconfirmation"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add social account",
+    "content_type": 12,
+    "codename": "add_socialaccount"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change social account",
+    "content_type": 12,
+    "codename": "change_socialaccount"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete social account",
+    "content_type": 12,
+    "codename": "delete_socialaccount"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view social account",
+    "content_type": 12,
+    "codename": "view_socialaccount"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 53,
+  "fields": {
+    "name": "Can add social application",
+    "content_type": 13,
+    "codename": "add_socialapp"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 54,
+  "fields": {
+    "name": "Can change social application",
+    "content_type": 13,
+    "codename": "change_socialapp"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 55,
+  "fields": {
+    "name": "Can delete social application",
+    "content_type": 13,
+    "codename": "delete_socialapp"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 56,
+  "fields": {
+    "name": "Can view social application",
+    "content_type": 13,
+    "codename": "view_socialapp"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 57,
+  "fields": {
+    "name": "Can add social application token",
+    "content_type": 14,
+    "codename": "add_socialtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 58,
+  "fields": {
+    "name": "Can change social application token",
+    "content_type": 14,
+    "codename": "change_socialtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 59,
+  "fields": {
+    "name": "Can delete social application token",
+    "content_type": 14,
+    "codename": "delete_socialtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 60,
+  "fields": {
+    "name": "Can view social application token",
+    "content_type": 14,
+    "codename": "view_socialtoken"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 61,
+  "fields": {
+    "name": "Can add contact",
+    "content_type": 15,
+    "codename": "add_contact"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 62,
+  "fields": {
+    "name": "Can change contact",
+    "content_type": 15,
+    "codename": "change_contact"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 63,
+  "fields": {
+    "name": "Can delete contact",
+    "content_type": 15,
+    "codename": "delete_contact"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 64,
+  "fields": {
+    "name": "Can view contact",
+    "content_type": 15,
+    "codename": "view_contact"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$vvZrCX64DH8InBM4b9OKKN$ga+lGwKshNPCmE+2TQWIKCAtmebjmiaaTiE2hOREhMY=",
+    "last_login": "2023-05-21T16:14:05.296Z",
+    "is_superuser": true,
+    "username": "root",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-05-12T16:36:52.048Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$a6yaBbn2QLJZ4lICiSZ6ud$bJGx9Ydy+8QUjPFnHHQUGKEzU/tPPA7RNN29CFwLgRw=",
+    "last_login": "2023-05-22T16:24:19.416Z",
+    "is_superuser": false,
+    "username": "terminator",
+    "first_name": "Tester",
+    "last_name": "terminator",
+    "email": "www@ya.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-05-22T16:22:58.654Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "pages",
+    "model": "team"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "cars",
+    "model": "car"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "account",
+    "model": "emailaddress"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "account",
+    "model": "emailconfirmation"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "socialaccount",
+    "model": "socialaccount"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "socialaccount",
+    "model": "socialapp"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 14,
+  "fields": {
+    "app_label": "socialaccount",
+    "model": "socialtoken"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 15,
+  "fields": {
+    "app_label": "contacts",
+    "model": "contact"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4ha1nodesj07n9549eu1jeo40h40lzlv",
+  "fields": {
+    "session_data": "e30:1q18JH:4xcol8X61nG-DVZioKJOh5i8mOzFUktUridvifrne98",
+    "expire_date": "2023-06-05T16:22:59.139Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "5a4tr1flsqdimxephq57qxqufgl14nt1",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-rH-U9JzBsr1rHECOFCcV4u4QKQW0b2bei8W0rS1ug5Y4ITszxU6_W07lQX0HeE_9NvMy93WZMt8VftDBrzPS83K4fwctjfatQQQkr0hY1LZYqRwZr4XEkDFUY8ESZCm0U77WUqw21SShA1RIQM6z9wfLfDdV:1q18KZ:9SurlvP2zul4EAUf-b3LPSHN2Jp_J6G6Nv34iCrCpNU",
+    "expire_date": "2023-06-05T16:24:19.420Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "x7hl5zhqbb9ke0aii2bqtbox7xk3m9ut",
+  "fields": {
+    "session_data": ".eJxVjMsOgjAUBf-la9OUvigu3fMNzX20FjUlobAy_ruQsNDtmZnzFhG2tcStpSVOLK6iE5ffDYGeqR6AH1Dvs6S5rsuE8lDkSZscZ06v2-n-HRRoZa_JKwy652QCKO8tYVCGMHPuBwTm4FjbPOycKXlnFVDgLjvDzqtktPh8AQVPOMM:1pxVxZ:YsdV7IW-PhnPeogjgrDW9GNfgFXH3zB7pOcHkWHs0Rg",
+    "expire_date": "2023-05-26T16:49:37.804Z"
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
