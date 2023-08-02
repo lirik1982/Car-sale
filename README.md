@@ -1,5 +1,5 @@
-[![Kirill's GitHub Banner](./2023-05-24_22-12-53.png)]]
-[![Kirill's GitHub Banner](./2023-05-24_22-12-52.png)]]
+[![Kirill's GitHub Banner]](./2023-05-24_22-12-53.png)]
+[![Kirill's GitHub Banner]](./2023-05-24_22-12-52.png)]
 
 <br>
 Самый любимый проект и один из самых крупных. 
